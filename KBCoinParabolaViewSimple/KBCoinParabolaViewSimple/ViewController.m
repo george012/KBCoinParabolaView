@@ -40,14 +40,14 @@
 {
     //"立即打开"按钮从视图上移除
     for (UIView *subView in self.view.subviews) {
-        if (![subView isEqual:btn]) {
+        if ([subView isKindOfClass:[KBCoinParabolaView class]]) {
             [subView removeFromSuperview];
         }
     }
     
-    KBCoinParabolaView *remind = [[KBCoinParabolaView alloc] initWithFrame:CGRectMake(self.view.frame.size.width/3, self.view.frame.size.width/3, self.view.frame.size.width/3, self.view.frame.size.height/3)];
+    KBCoinParabolaView *newRemind = [[KBCoinParabolaView alloc] initWithFrame:CGRectMake(self.view.frame.size.width/3, self.view.frame.size.width/3, self.view.frame.size.width/3, self.view.frame.size.height/3)];
     
-    [self.view addSubview:remind];
+    [self.view addSubview:newRemind];
     
 }
 
