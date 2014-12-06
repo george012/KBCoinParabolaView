@@ -1,0 +1,498 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		6B98C3D51A32B0DB007AD9A2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B98C3D41A32B0DB007AD9A2 /* main.m */; };
+		6B98C3D81A32B0DB007AD9A2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B98C3D71A32B0DB007AD9A2 /* AppDelegate.m */; };
+		6B98C3DB1A32B0DB007AD9A2 /* KBCoinParabolaViewSimple.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6B98C3D91A32B0DB007AD9A2 /* KBCoinParabolaViewSimple.xcdatamodeld */; };
+		6B98C3DE1A32B0DB007AD9A2 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B98C3DD1A32B0DB007AD9A2 /* ViewController.m */; };
+		6B98C3E11A32B0DB007AD9A2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B98C3DF1A32B0DB007AD9A2 /* Main.storyboard */; };
+		6B98C3E31A32B0DB007AD9A2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6B98C3E21A32B0DB007AD9A2 /* Images.xcassets */; };
+		6B98C3E61A32B0DB007AD9A2 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6B98C3E41A32B0DB007AD9A2 /* LaunchScreen.xib */; };
+		6B98C3F21A32B0DB007AD9A2 /* KBCoinParabolaViewSimpleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B98C3F11A32B0DB007AD9A2 /* KBCoinParabolaViewSimpleTests.m */; };
+		6B98C4011A32B115007AD9A2 /* KBCoinParabolaView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B98C4001A32B115007AD9A2 /* KBCoinParabolaView.m */; };
+		6B98C40C1A32B126007AD9A2 /* icon_coin_3.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B98C4021A32B126007AD9A2 /* icon_coin_3.png */; };
+		6B98C40D1A32B126007AD9A2 /* icon_coin_3@2.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B98C4031A32B126007AD9A2 /* icon_coin_3@2.png */; };
+		6B98C40E1A32B126007AD9A2 /* icon_coin_4.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B98C4041A32B126007AD9A2 /* icon_coin_4.png */; };
+		6B98C40F1A32B126007AD9A2 /* icon_coin_4@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B98C4051A32B126007AD9A2 /* icon_coin_4@2x.png */; };
+		6B98C4101A32B126007AD9A2 /* icon_hongbao_bags.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B98C4061A32B126007AD9A2 /* icon_hongbao_bags.png */; };
+		6B98C4111A32B126007AD9A2 /* icon_hongbao_bags@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B98C4071A32B126007AD9A2 /* icon_hongbao_bags@2x.png */; };
+		6B98C4121A32B126007AD9A2 /* icon_coin_2.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B98C4081A32B126007AD9A2 /* icon_coin_2.png */; };
+		6B98C4131A32B126007AD9A2 /* icon_coin_2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B98C4091A32B126007AD9A2 /* icon_coin_2@2x.png */; };
+		6B98C4141A32B126007AD9A2 /* icon_coin_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B98C40A1A32B126007AD9A2 /* icon_coin_1.png */; };
+		6B98C4151A32B126007AD9A2 /* icon_coin_1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B98C40B1A32B126007AD9A2 /* icon_coin_1@2x.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		6B98C3EC1A32B0DB007AD9A2 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6B98C3C71A32B0DB007AD9A2 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6B98C3CE1A32B0DB007AD9A2;
+			remoteInfo = KBCoinParabolaViewSimple;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		6B98C3CF1A32B0DB007AD9A2 /* KBCoinParabolaViewSimple.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KBCoinParabolaViewSimple.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6B98C3D31A32B0DB007AD9A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6B98C3D41A32B0DB007AD9A2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		6B98C3D61A32B0DB007AD9A2 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		6B98C3D71A32B0DB007AD9A2 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		6B98C3DA1A32B0DB007AD9A2 /* KBCoinParabolaViewSimple.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = KBCoinParabolaViewSimple.xcdatamodel; sourceTree = "<group>"; };
+		6B98C3DC1A32B0DB007AD9A2 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		6B98C3DD1A32B0DB007AD9A2 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		6B98C3E01A32B0DB007AD9A2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		6B98C3E21A32B0DB007AD9A2 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		6B98C3E51A32B0DB007AD9A2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		6B98C3EB1A32B0DB007AD9A2 /* KBCoinParabolaViewSimpleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KBCoinParabolaViewSimpleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		6B98C3F01A32B0DB007AD9A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6B98C3F11A32B0DB007AD9A2 /* KBCoinParabolaViewSimpleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KBCoinParabolaViewSimpleTests.m; sourceTree = "<group>"; };
+		6B98C3FF1A32B115007AD9A2 /* KBCoinParabolaView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KBCoinParabolaView.h; sourceTree = "<group>"; };
+		6B98C4001A32B115007AD9A2 /* KBCoinParabolaView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KBCoinParabolaView.m; sourceTree = "<group>"; };
+		6B98C4021A32B126007AD9A2 /* icon_coin_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_coin_3.png; sourceTree = "<group>"; };
+		6B98C4031A32B126007AD9A2 /* icon_coin_3@2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_coin_3@2.png"; sourceTree = "<group>"; };
+		6B98C4041A32B126007AD9A2 /* icon_coin_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_coin_4.png; sourceTree = "<group>"; };
+		6B98C4051A32B126007AD9A2 /* icon_coin_4@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_coin_4@2x.png"; sourceTree = "<group>"; };
+		6B98C4061A32B126007AD9A2 /* icon_hongbao_bags.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_hongbao_bags.png; sourceTree = "<group>"; };
+		6B98C4071A32B126007AD9A2 /* icon_hongbao_bags@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_hongbao_bags@2x.png"; sourceTree = "<group>"; };
+		6B98C4081A32B126007AD9A2 /* icon_coin_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_coin_2.png; sourceTree = "<group>"; };
+		6B98C4091A32B126007AD9A2 /* icon_coin_2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_coin_2@2x.png"; sourceTree = "<group>"; };
+		6B98C40A1A32B126007AD9A2 /* icon_coin_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_coin_1.png; sourceTree = "<group>"; };
+		6B98C40B1A32B126007AD9A2 /* icon_coin_1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_coin_1@2x.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6B98C3CC1A32B0DB007AD9A2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6B98C3E81A32B0DB007AD9A2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		6B98C3C61A32B0DB007AD9A2 = {
+			isa = PBXGroup;
+			children = (
+				6B98C3D11A32B0DB007AD9A2 /* KBCoinParabolaViewSimple */,
+				6B98C3EE1A32B0DB007AD9A2 /* KBCoinParabolaViewSimpleTests */,
+				6B98C3D01A32B0DB007AD9A2 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		6B98C3D01A32B0DB007AD9A2 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6B98C3CF1A32B0DB007AD9A2 /* KBCoinParabolaViewSimple.app */,
+				6B98C3EB1A32B0DB007AD9A2 /* KBCoinParabolaViewSimpleTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		6B98C3D11A32B0DB007AD9A2 /* KBCoinParabolaViewSimple */ = {
+			isa = PBXGroup;
+			children = (
+				6B98C3FE1A32B115007AD9A2 /* KBCoinParabolaView */,
+				6B98C3D61A32B0DB007AD9A2 /* AppDelegate.h */,
+				6B98C3D71A32B0DB007AD9A2 /* AppDelegate.m */,
+				6B98C3DC1A32B0DB007AD9A2 /* ViewController.h */,
+				6B98C3DD1A32B0DB007AD9A2 /* ViewController.m */,
+				6B98C3DF1A32B0DB007AD9A2 /* Main.storyboard */,
+				6B98C3E21A32B0DB007AD9A2 /* Images.xcassets */,
+				6B98C3E41A32B0DB007AD9A2 /* LaunchScreen.xib */,
+				6B98C3D91A32B0DB007AD9A2 /* KBCoinParabolaViewSimple.xcdatamodeld */,
+				6B98C3D21A32B0DB007AD9A2 /* Supporting Files */,
+			);
+			path = KBCoinParabolaViewSimple;
+			sourceTree = "<group>";
+		};
+		6B98C3D21A32B0DB007AD9A2 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				6B98C3D31A32B0DB007AD9A2 /* Info.plist */,
+				6B98C3D41A32B0DB007AD9A2 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		6B98C3EE1A32B0DB007AD9A2 /* KBCoinParabolaViewSimpleTests */ = {
+			isa = PBXGroup;
+			children = (
+				6B98C3F11A32B0DB007AD9A2 /* KBCoinParabolaViewSimpleTests.m */,
+				6B98C3EF1A32B0DB007AD9A2 /* Supporting Files */,
+			);
+			path = KBCoinParabolaViewSimpleTests;
+			sourceTree = "<group>";
+		};
+		6B98C3EF1A32B0DB007AD9A2 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				6B98C3F01A32B0DB007AD9A2 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		6B98C3FE1A32B115007AD9A2 /* KBCoinParabolaView */ = {
+			isa = PBXGroup;
+			children = (
+				6B98C4021A32B126007AD9A2 /* icon_coin_3.png */,
+				6B98C4031A32B126007AD9A2 /* icon_coin_3@2.png */,
+				6B98C4041A32B126007AD9A2 /* icon_coin_4.png */,
+				6B98C4051A32B126007AD9A2 /* icon_coin_4@2x.png */,
+				6B98C4061A32B126007AD9A2 /* icon_hongbao_bags.png */,
+				6B98C4071A32B126007AD9A2 /* icon_hongbao_bags@2x.png */,
+				6B98C4081A32B126007AD9A2 /* icon_coin_2.png */,
+				6B98C4091A32B126007AD9A2 /* icon_coin_2@2x.png */,
+				6B98C40A1A32B126007AD9A2 /* icon_coin_1.png */,
+				6B98C40B1A32B126007AD9A2 /* icon_coin_1@2x.png */,
+				6B98C3FF1A32B115007AD9A2 /* KBCoinParabolaView.h */,
+				6B98C4001A32B115007AD9A2 /* KBCoinParabolaView.m */,
+			);
+			path = KBCoinParabolaView;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6B98C3CE1A32B0DB007AD9A2 /* KBCoinParabolaViewSimple */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6B98C3F51A32B0DB007AD9A2 /* Build configuration list for PBXNativeTarget "KBCoinParabolaViewSimple" */;
+			buildPhases = (
+				6B98C3CB1A32B0DB007AD9A2 /* Sources */,
+				6B98C3CC1A32B0DB007AD9A2 /* Frameworks */,
+				6B98C3CD1A32B0DB007AD9A2 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = KBCoinParabolaViewSimple;
+			productName = KBCoinParabolaViewSimple;
+			productReference = 6B98C3CF1A32B0DB007AD9A2 /* KBCoinParabolaViewSimple.app */;
+			productType = "com.apple.product-type.application";
+		};
+		6B98C3EA1A32B0DB007AD9A2 /* KBCoinParabolaViewSimpleTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6B98C3F81A32B0DB007AD9A2 /* Build configuration list for PBXNativeTarget "KBCoinParabolaViewSimpleTests" */;
+			buildPhases = (
+				6B98C3E71A32B0DB007AD9A2 /* Sources */,
+				6B98C3E81A32B0DB007AD9A2 /* Frameworks */,
+				6B98C3E91A32B0DB007AD9A2 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				6B98C3ED1A32B0DB007AD9A2 /* PBXTargetDependency */,
+			);
+			name = KBCoinParabolaViewSimpleTests;
+			productName = KBCoinParabolaViewSimpleTests;
+			productReference = 6B98C3EB1A32B0DB007AD9A2 /* KBCoinParabolaViewSimpleTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		6B98C3C71A32B0DB007AD9A2 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+				ORGANIZATIONNAME = "北京浙星信息技术有限公司";
+				TargetAttributes = {
+					6B98C3CE1A32B0DB007AD9A2 = {
+						CreatedOnToolsVersion = 6.1.1;
+					};
+					6B98C3EA1A32B0DB007AD9A2 = {
+						CreatedOnToolsVersion = 6.1.1;
+						TestTargetID = 6B98C3CE1A32B0DB007AD9A2;
+					};
+				};
+			};
+			buildConfigurationList = 6B98C3CA1A32B0DB007AD9A2 /* Build configuration list for PBXProject "KBCoinParabolaViewSimple" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 6B98C3C61A32B0DB007AD9A2;
+			productRefGroup = 6B98C3D01A32B0DB007AD9A2 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6B98C3CE1A32B0DB007AD9A2 /* KBCoinParabolaViewSimple */,
+				6B98C3EA1A32B0DB007AD9A2 /* KBCoinParabolaViewSimpleTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6B98C3CD1A32B0DB007AD9A2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6B98C40D1A32B126007AD9A2 /* icon_coin_3@2.png in Resources */,
+				6B98C3E11A32B0DB007AD9A2 /* Main.storyboard in Resources */,
+				6B98C4151A32B126007AD9A2 /* icon_coin_1@2x.png in Resources */,
+				6B98C4101A32B126007AD9A2 /* icon_hongbao_bags.png in Resources */,
+				6B98C40E1A32B126007AD9A2 /* icon_coin_4.png in Resources */,
+				6B98C4121A32B126007AD9A2 /* icon_coin_2.png in Resources */,
+				6B98C4131A32B126007AD9A2 /* icon_coin_2@2x.png in Resources */,
+				6B98C40C1A32B126007AD9A2 /* icon_coin_3.png in Resources */,
+				6B98C4111A32B126007AD9A2 /* icon_hongbao_bags@2x.png in Resources */,
+				6B98C3E61A32B0DB007AD9A2 /* LaunchScreen.xib in Resources */,
+				6B98C40F1A32B126007AD9A2 /* icon_coin_4@2x.png in Resources */,
+				6B98C3E31A32B0DB007AD9A2 /* Images.xcassets in Resources */,
+				6B98C4141A32B126007AD9A2 /* icon_coin_1.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6B98C3E91A32B0DB007AD9A2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6B98C3CB1A32B0DB007AD9A2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6B98C3D81A32B0DB007AD9A2 /* AppDelegate.m in Sources */,
+				6B98C3D51A32B0DB007AD9A2 /* main.m in Sources */,
+				6B98C3DE1A32B0DB007AD9A2 /* ViewController.m in Sources */,
+				6B98C3DB1A32B0DB007AD9A2 /* KBCoinParabolaViewSimple.xcdatamodeld in Sources */,
+				6B98C4011A32B115007AD9A2 /* KBCoinParabolaView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6B98C3E71A32B0DB007AD9A2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6B98C3F21A32B0DB007AD9A2 /* KBCoinParabolaViewSimpleTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		6B98C3ED1A32B0DB007AD9A2 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6B98C3CE1A32B0DB007AD9A2 /* KBCoinParabolaViewSimple */;
+			targetProxy = 6B98C3EC1A32B0DB007AD9A2 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		6B98C3DF1A32B0DB007AD9A2 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6B98C3E01A32B0DB007AD9A2 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		6B98C3E41A32B0DB007AD9A2 /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6B98C3E51A32B0DB007AD9A2 /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		6B98C3F31A32B0DB007AD9A2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		6B98C3F41A32B0DB007AD9A2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		6B98C3F61A32B0DB007AD9A2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = KBCoinParabolaViewSimple/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		6B98C3F71A32B0DB007AD9A2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = KBCoinParabolaViewSimple/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		6B98C3F91A32B0DB007AD9A2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = KBCoinParabolaViewSimpleTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/KBCoinParabolaViewSimple.app/KBCoinParabolaViewSimple";
+			};
+			name = Debug;
+		};
+		6B98C3FA1A32B0DB007AD9A2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = KBCoinParabolaViewSimpleTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/KBCoinParabolaViewSimple.app/KBCoinParabolaViewSimple";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6B98C3CA1A32B0DB007AD9A2 /* Build configuration list for PBXProject "KBCoinParabolaViewSimple" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6B98C3F31A32B0DB007AD9A2 /* Debug */,
+				6B98C3F41A32B0DB007AD9A2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6B98C3F51A32B0DB007AD9A2 /* Build configuration list for PBXNativeTarget "KBCoinParabolaViewSimple" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6B98C3F61A32B0DB007AD9A2 /* Debug */,
+				6B98C3F71A32B0DB007AD9A2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		6B98C3F81A32B0DB007AD9A2 /* Build configuration list for PBXNativeTarget "KBCoinParabolaViewSimpleTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6B98C3F91A32B0DB007AD9A2 /* Debug */,
+				6B98C3FA1A32B0DB007AD9A2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		6B98C3D91A32B0DB007AD9A2 /* KBCoinParabolaViewSimple.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				6B98C3DA1A32B0DB007AD9A2 /* KBCoinParabolaViewSimple.xcdatamodel */,
+			);
+			currentVersion = 6B98C3DA1A32B0DB007AD9A2 /* KBCoinParabolaViewSimple.xcdatamodel */;
+			path = KBCoinParabolaViewSimple.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 6B98C3C71A32B0DB007AD9A2 /* Project object */;
+}

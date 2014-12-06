@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D341E767-F629-408D-B8AF-D08CB9412997</string>
+	<key>IDESourceControlProjectName</key>
+	<string>KBCoinParabolaViewSimple</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F6B13D6D8C54202F8BBC45992E2EDBB0F08FC2F7</key>
+		<string>https://github.com/george012/KBCoinParabolaView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>KBCoinParabolaViewSimple/KBCoinParabolaViewSimple.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F6B13D6D8C54202F8BBC45992E2EDBB0F08FC2F7</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/george012/KBCoinParabolaView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F6B13D6D8C54202F8BBC45992E2EDBB0F08FC2F7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F6B13D6D8C54202F8BBC45992E2EDBB0F08FC2F7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>KBCoinParabolaView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
